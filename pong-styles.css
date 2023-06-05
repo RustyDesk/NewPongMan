@@ -83,6 +83,7 @@ body {
 }
 
 .score {
+  color: yellow;
   display: block;
   position: absolute;
   font-family: Times New Roman, Helvetica, sans-serif;
