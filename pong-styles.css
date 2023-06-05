@@ -39,7 +39,7 @@ body {
 #errors-debug {
   display: none;
   bottom: 0;
-  position: absolute;
+  position: left;
   margin: 10px;
   padding-left: 400px;
   font-family: Times New Roman, Helvetica, sans-serif;
@@ -75,7 +75,7 @@ body {
 .ball {
   width: 15px;
   height: 15px;
-  background-color: red;
+  background-color: yellow;
   border-radius: 10px;
   position: absolute;
   left: 50px;
